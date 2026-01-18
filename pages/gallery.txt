@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Моя галерея</title>
+</head>
+<body>
+    <h1>Спогади з Криту</h1>
+    
+    <h2>Мій друг кіт</h2>
+    <img src="../photo/cat.jpg" alt="Кіт" width="300">
+    
+    <h2>Найсмачніша їжа у світі</h2>
+    <img src="../photo/food.jpg" alt="Їжа" width="300">
+    
+    <br><br>
+    <a href="../index.html">Повернутися на головну</a>
+</body>
+</html>
