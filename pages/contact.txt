@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мої контакти</title>
+</head>
+<body>
+    <h1>Контакти</h1>
+    <p>Мене звати Марта і я люблю подорожувати.</p>
+    <ul>
+        <li>Email: martamokrytska@gmail.com</li>
+        <li>GitHub: MartaMZ-maker</li>
+    </ul>
+    <br>
+    <a href="../index.html">На головну</a>
+</body>
+</html>
